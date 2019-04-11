@@ -8,6 +8,10 @@ Monopoly was built by 4 junior web developers during Javascript Group Week at Ep
 #### By Philip Eskins, Nayomi Morita, Drew Yoxsimer, Maly Phongsavanh
 
 
+## Deployed monopoly
+
+https://monopoly-73780.firebaseapp.com
+
 ## Setup on OSX
 
 * Install Node.js
